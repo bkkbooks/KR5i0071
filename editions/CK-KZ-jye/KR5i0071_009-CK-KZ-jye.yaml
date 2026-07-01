@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR5i0071/CK-KZ-jye/v1/juan/9
+seq: 9
+front:
+  text: 張三丰先生全集重刋道藏輯要張三丰先生全集雲水前集序雲水前集者我三丰先生在元明間所作者也永樂時胡廣等收入大典之内世間少得其本嘉靖中詔求方書仍從大典中糸畨出梓行頒示國師等等錫齡於康熙五十九年得此本於楊州書肆寶而藏之卽花谷藏書也後有起者將此板刋出必能傳其人讀其詩知先生之淸風高節爲不可及也
+  hash: sha256:5500daefdb517bc193276997f4908eeac8d8fc93b84125b2844056f610f4705e
+  markers:
+  - {type: page-break, offset: 7, content: '', id: CK-KZ_KR5i0071_09p001a}
+body:
+  text: 圖通弟子謹識
+  hash: sha256:9697b3004750857eebaccc064c2e2a2f48ed50f9db9756039f35c2f66963bfbc
+metadata:
+  title: 張三丰先生全集
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 17:55:28.064187'
+  source:
+    repository: kanripo
+    path: KR5i0071/KR5i0071_009.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:3a5beb59fb0be5c875d508a65e6a71965f3b6fd15345e2e503717096fcaa7643

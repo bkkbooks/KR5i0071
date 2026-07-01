@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0071/krp/v1/juan/12
+seq: 12
+front:
+  text: 張三丰先生全集序天台悟真發明內外二藥返還大事當時淺識無知或疑為爐火採戰之書葉文叔不明返還又復以淸淨浮言附驥行世翁葆光見而笑曰此不知金丹者也遂為注以匡正之陸子野陳上陽道加發揮悟真三注出而葉注遂湮遼陽張三丰先生天仙也在武當時曾作無根樹道情二十四首與紫陽悟真後先伯仲世亦認有為採戰爐火者涵虛喟然曰道之不行由於道之不明也每欲著解彰之恨無同心丹友棲雲劉悟元以宏通大辨之才作書數十種傳世其中有無根樹注解涵虛取而觀之詞源浩大理境圓通由是欣然大喜喜其先得我心之所同然也其中有未盡泄者涵為虛乃補之內外藥物返還火候先後爐鼎發泄無遺自是而無根二解宛然悟真三注也解成問序於豫豫不敏為記其用心如此
+  hash: sha256:1e7ebeca77843a9b6b6012d50ebee8132a35563c044c486403da6c2b9e458292
+  markers:
+  - {type: page-break, offset: 7, content: '', id: CK-KZ_KR5i0071_12p001a}
+body:
+  text: 丁未立秋日靑霞洞主人同師弟何西復拜識重刋道藏輯要張三丰先生全集自題無根樹詞二首鷓鴣天道法流傳有正邪入邪背正遍天涯飛騰罕見穿雲鳳陷溺多成落井蛙不難與辨亂紛譁都將赤土作丹砂要知端的通玄路細玩無根樹下花賣花聲無根樹下說真常六道含靈共一光會得威音前後事本無來去貌堂堂明洪武十七年歲在甲子中和節大元遺老張三丰自記於武當天柱峯之草廬
+  hash: sha256:f14ff877c090e04f8ca3b2bbdf4d82121b854f559b991af71ffc55e7493932ad
+metadata:
+  title: 張三丰先生全集
+  edition:
+    short: krp
+  base_edition: CK-KZ
+  date: '2015-08-29 17:55:28.064187'
+  source:
+    repository: kanripo
+    path: KR5i0071/KR5i0071_012.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:0cddcd09748ac7ee3885ab022fd871656b43e234bfab0abcb7be9a5abf2f1967

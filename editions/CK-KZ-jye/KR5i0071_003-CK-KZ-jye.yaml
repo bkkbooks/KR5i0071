@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR5i0071/CK-KZ-jye/v1/juan/3
+seq: 3
+front:
+  text: 張三丰先生全集張三丰先生全集總目
+  hash: sha256:788cf92622bfc9c705697e291c5780dc0b2e43ccca948d5641d5bdccb4bdf200
+  markers:
+  - {type: page-break, offset: 7, content: '', id: CK-KZ_KR5i0071_03p001a}
+body:
+  text: 一卷序誥傳仙派正訛顯蹟二卷古文隱鑑三卷大道論玄機直講道言淺近四卷玄要篇上玄要篇下補遺五卷雲水前集雲水後集雲水三集六卷天口篇訓世文七卷九皇經三教經度人經菩提經鐘偈八卷水石閒談古今題贈隱鏡彙記
+  hash: sha256:539fc4e034bc9d0a339ef88b05b98ac5dd750718b7454e301bc261b70d91dde8
+metadata:
+  title: 張三丰先生全集
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 17:55:28.064187'
+  source:
+    repository: kanripo
+    path: KR5i0071/KR5i0071_003.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:28ce488674d0aa5f88f10349dacd7a83ed666869846de113f20543c8c51be68b

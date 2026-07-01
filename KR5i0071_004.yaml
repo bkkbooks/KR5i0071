@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0071/krp/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 張三丰先生全集
+  hash: sha256:af8c18feaa9b1c257f97dab7bae59fe397ba55dc3f74eefe44607b0a5b46cd19
+  markers:
+  - {type: page-break, offset: 7, content: '', id: CK-KZ_KR5i0071_04p001a}
+metadata:
+  title: 張三丰先生全集
+  edition:
+    short: krp
+  base_edition: CK-KZ
+  date: '2015-08-29 17:55:28.064187'
+  source:
+    repository: kanripo
+    path: KR5i0071/KR5i0071_004.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:e3a097a646fb0e64ffeac430e9fb01ce8a855a3a757fefe2eb7d025b74444907
