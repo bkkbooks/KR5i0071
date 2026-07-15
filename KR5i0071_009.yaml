@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR5i0071/krp/v1/juan/9
 seq: 9
 front:
-  text: 張三丰先生全集重刋道藏輯要張三丰先生全集雲水前集序雲水前集者我三丰先生在元明間所作者也永樂時胡廣等收入大典之内世間少得其本嘉靖中詔求方書仍從大典中糸畨出梓行頒示國師等等錫齡於康熙五十九年得此本於楊州書肆寶而藏之卽花谷藏書也後有起者將此板刋出必能傳其人讀其詩知先生之淸風高節爲不可及也
-  hash: sha256:5500daefdb517bc193276997f4908eeac8d8fc93b84125b2844056f610f4705e
+  text: 張三丰先生全集重刋道藏輯要張三丰先生全集雲水前集序雲水前集者我三丰先生在元明間所作者也永樂時胡廣等收入大典之內世間少得其本嘉靖中詔求方書仍從大典中糸畨出梓行頒示國師等等錫齡於康熙五十九年得此本於楊州書肆寶而藏之即花谷藏書也後有起者將此板刋出必能傳其人讀其詩知先生之淸風高節為不可及也
+  hash: sha256:1f6cd151238794b4bd8418e0d590aebb6380cc9e8040fa365531cabaa47dfa30
   markers:
   - {type: page-break, offset: 7, content: '', id: CK-KZ_KR5i0071_09p001a}
 body:
@@ -20,4 +20,4 @@ metadata:
   image_base_urls:
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
-hash: sha256:6ddbea22e818948b6d203793cf775cb49d1aad67eadac05141979b7468661cbc
+hash: sha256:699f98551b738e77212c381b2e893637f250870ffbe36ea096d90fc2d8ffd659

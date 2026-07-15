@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR5i0071/krp/v1/juan/15
 seq: 15
 front:
-  text: 張三丰先生全集重刋道藏輯要如意寶珠目錄張三丰先生全集
-  hash: sha256:b90f8cb38d1ec1603f60244600fffdf8eaa1c9571d08723346851584fdde221f
+  text: 張三丰先生全集重刋道藏輯要如意寶珠目録張三丰先生全集
+  hash: sha256:15fc399bd3753cdde243d15acb4ea79d04050c283bb0a41c106236483a590ae0
   markers:
   - {type: page-break, offset: 7, content: '', id: CK-KZ_KR5i0071_15p001a}
 body:
-  text: 上卷文昌開心咒總持符咒無極咒開心符總持符受正元機神光經序神光經取驗要訣源流確論定神湯序定神湯方事君篇臨敵討罪篇野㝛篇遠遊篇風雨雷電篇過渡篇飮食篇交遊篇疾病生死篇取驗法神光占佛母准提心經准提印金剛印指掌圖淨法界眞言護身眞言太明眞言准提眞言大輪咒甘露咒大灌頂光眞言大寶廣博樓閣陀羅尼咒息災法妙言增益法妙言敬愛法妙言降伏法妙言出世間法妙言如意寶珠目錄下卷斗姥大法語心經一曰貪狼星二曰巨門星三曰眞人祿存星四曰文曲星五曰丹元亷貞星六曰北極武曲星七曰天關破軍星三台星十二時辰口訣天罡祖氣白玉龜台大悲神咒分句提詞
-  hash: sha256:c503e8f67586016bec20e7f7a327e6da60d6c66ab6227c39f6ff334514f5203d
+  text: 上卷文昌開心咒總持符咒無極咒開心符總持符受正元機神光經序神光經取驗要訣源流確論定神湯序定神湯方事君篇臨敵討罪篇野宿篇遠遊篇風雨雷電篇過渡篇飮食篇交遊篇疾病生死篇取驗法神光占佛母準提心經準提印金剛印指掌圖淨法界真言護身真言太明真言準提真言大輪咒甘露咒大灌頂光真言大寶廣博樓閣陀羅尼咒息災法妙言增益法妙言敬愛法妙言降伏法妙言出世間法妙言如意寶珠目録下卷斗姥大法語心經一曰貪狼星二曰巨門星三曰真人祿存星四曰文曲星五曰丹元亷貞星六曰北極武曲星七曰天關破軍星三台星十二時辰口訣天罡祖氣白玉龜台大悲神咒分句提詞
+  hash: sha256:3bde32f78f0bf96cf3afeb5e43d032744655e5391a701124054dee0f1388930c
 metadata:
   title: 張三丰先生全集
   edition:
@@ -20,4 +20,4 @@ metadata:
   image_base_urls:
     CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
-hash: sha256:05cc5ca3df03c1f9ab0512ddf6c03a1d4a9135a73a8c9a22434b8ed9caf92de7
+hash: sha256:9d8f12f214a0e2da3729a3fccb5dafb79666a850b46cf6d18d72a44c16eff65d
